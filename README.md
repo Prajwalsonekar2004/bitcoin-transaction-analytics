@@ -59,9 +59,9 @@ Google BigQuery
 
 ## Dashboard Preview
 
-![Dashboard](images/Network Overview.png)
-![Dashboard](images/Fee Analysis.png)
-![Dashboard](images/Risk Monitoring.png)
+![Dashboard](images/network_overview.png)
+![Dashboard](images/feeanalysis.png)
+![Dashboard](images/riskmonitoring.png)
 
 ## Author
 Prajwal Sonekar
