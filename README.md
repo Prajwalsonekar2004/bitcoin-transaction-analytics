@@ -59,7 +59,7 @@ Google BigQuery
 
 ## Dashboard Preview
 
-![Dashboard](images/network_overview.png)
+![Dashboard](images/FeeAnalysis.png)
 ![Dashboard](images/feeanalysis.png)
 ![Dashboard](images/riskmonitoring.png)
 
